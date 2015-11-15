@@ -18,6 +18,6 @@ public class App implements CommandLineRunner
 
 	public void run(String... arg0) throws Exception {
 		logger.info("You can press ctl+c for shutdown.");
-		Thread.currentThread().join();
+		//Thread.currentThread().join();
 	}
 }
