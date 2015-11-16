@@ -1,2 +1,2 @@
 # websocketstomp
-Websocket Stomp ActiveMq Server
+Websocket Stomp Message Droker Example
